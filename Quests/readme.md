@@ -29,7 +29,4 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/Catto-YFCN/GatoHub/ma
 Enjoy the Auto Quests features in your script!
 
 Happy coding! If you have any questions or issues, don't hesitate to reach out to the [Discord](https://discord.gg/xMgHbPgaGb).
-
-[![Catto-YFCN](https://example.community.logo)](https://example.community.link)
-
 ---
