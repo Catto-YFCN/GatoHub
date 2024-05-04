@@ -5,6 +5,9 @@ if ID == 16993380837 then
 elseif ID == 16510724413 then
     print("Game Detected: Pet Catchers")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Catto-YFCN/GatoHub/main/PetCatchersBETA"))()
+elseif ID == 2631572400 then
+    print("Game Detected: Ancient Egypt Roleplay")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Catto-YFCN/GatoHub/main/Ancient-Egypt-RP.lua"))()
 else
     print("Unknown Game ID or Unsupported Game!", ID)
 end
